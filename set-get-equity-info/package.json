@@ -1,0 +1,27 @@
+{
+  "name": "fb-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "electron": "^1.6.2",
+    "express": "^4.15.3",
+    "jimp": "^0.2.27",
+    "nightmare": "^2.10.0",
+    "nightmare-screenshot": "^1.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "nightmare": "^2.10.0",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
